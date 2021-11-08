@@ -1,5 +1,7 @@
 // https://leetcode.com/problems/maximum-subarray/
-// submission: https://leetcode.com/submissions/detail/572049191/
+// Your runtime beats 8.87 % of cpp submissions.
+// Your memory usage beats 9.16 % of cpp submissions.
+// I was testing divide-and-conquer hence the slow runtime
 
 class Solution {
 public:
